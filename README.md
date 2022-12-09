@@ -5,4 +5,9 @@
 > A web application used to transform the speech to text
 
 ## tech stack:
+>  ### azure:
+- azure
+- speech service
+- python
+
 
